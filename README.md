@@ -5,7 +5,7 @@
 The purpose of the project is to develop and deploy a salary prediction application to help HR or hiring managers to accurately benchmark their compensation strategy, a prerequisite to stay competitive without overpaying too much for talents. Alternatively, a candidate can use this model to initialize salary negotiation. 
 
 ## Dataset
-Three CSV files available: 1. Training data - features only 2. Training data - target (salary) only 3. Test data - features only. 
+Three CSV files available: 1. Training data - features only 2. Training data - target (salary) only 3. Test data - features only.   
 In total, there are 1 million rows in each of the csv file.
 
 ## Feature list
