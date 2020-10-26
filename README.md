@@ -1,6 +1,5 @@
-# salarypredictionportfolio
-### Salary Prediction Project (Python)
-### by Lin He
+# Salary Prediction Project (Python) by Lin He
+## salarypredictionportfolio
 
 ## Purpose
 The purpose of the project is to develop and deploy a salary prediction application to help HR or hiring managers to accurately benchmark their compensation strategy, a prerequisite to stay competitive without overpaying too much for talents. Alternatively, a candidate can use this model to initialize salary negotiation. 
@@ -39,4 +38,4 @@ Three other models were developed to compare against LASSO. Decisition tree unde
 After selecting the best model - XGBoost, a pipeline was built to streamline the end to end process with predictions and feature importance outputs.
 
 ## Summary
-This is a fun project with a large set of data available. An MSE of 359 is equivalent to an accuracy score of 76% - quite good considering how limited the feature list is. A couple areas for improvement: first, if the dataset has more features, for example, city name and more job types, it might improve the accuracy. Second, hyperparameter tuning, random search or grid search are good candidates to consider.
+This is a fun project with a large set of data available. An MSE of 359 is equivalent to an accuracy score of 76% - quite good considering how limited the feature list is. A couple areas for improvement: first, if the dataset has more features, for example, city name and more job types, it might improve the accuracy. Second, hyperparameter tuning, random search or grid search are good candidates for this.
