@@ -11,10 +11,15 @@ In total, there are 1 million rows in each of the csv file.
 
 ## Feature list
 Years Experience: how many years of experience, ranging from 0 to 24.
+
 Miles From Metropolis: how many miles away from a major city, ranging from 0 to 100.
+
 Job Type: eight different types (CEO, CFO, CTO, VP, Manager, Janitor, Senior and Junior)
+
 Degree: five kinds (Doctoral, Masters, Bachelors, High School and None)
+
 Major: nine kinds (Biology, Business, Chemistry, Computer Science, Engineering, Literature, Math, Physics and None)
+
 Industry: seven kinds (Auto, Education, Finance, Health, Oil, Service and Web)
 
 ## Steps
